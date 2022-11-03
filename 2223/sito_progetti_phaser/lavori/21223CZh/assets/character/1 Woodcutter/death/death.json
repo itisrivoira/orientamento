@@ -1,0 +1,146 @@
+{
+	"textures": [
+		{
+			"image": "death.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 97,
+				"h": 49
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "death-5.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 48,
+						"h": 48
+					},
+					"spriteSourceSize": {
+						"x": 6,
+						"y": 41,
+						"w": 34,
+						"h": 7
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 34,
+						"h": 7
+					}
+				},
+				{
+					"filename": "death-3.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 48,
+						"h": 48
+					},
+					"spriteSourceSize": {
+						"x": 6,
+						"y": 28,
+						"w": 29,
+						"h": 20
+					},
+					"frame": {
+						"x": 37,
+						"y": 1,
+						"w": 29,
+						"h": 20
+					}
+				},
+				{
+					"filename": "death-0.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 48,
+						"h": 48
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 15,
+						"w": 28,
+						"h": 33
+					},
+					"frame": {
+						"x": 1,
+						"y": 10,
+						"w": 28,
+						"h": 33
+					}
+				},
+				{
+					"filename": "death-1.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 48,
+						"h": 48
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 18,
+						"w": 28,
+						"h": 30
+					},
+					"frame": {
+						"x": 68,
+						"y": 1,
+						"w": 28,
+						"h": 30
+					}
+				},
+				{
+					"filename": "death-2.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 48,
+						"h": 48
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 24,
+						"w": 28,
+						"h": 24
+					},
+					"frame": {
+						"x": 31,
+						"y": 23,
+						"w": 28,
+						"h": 24
+					}
+				},
+				{
+					"filename": "death-4.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 48,
+						"h": 48
+					},
+					"spriteSourceSize": {
+						"x": 6,
+						"y": 33,
+						"w": 29,
+						"h": 15
+					},
+					"frame": {
+						"x": 61,
+						"y": 33,
+						"w": 29,
+						"h": 15
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:9b93edb55856887ecf8b4fe1e0fd5073:afe0a226896b9abaddca119a12e4e122:572aa1586ae03ed41df9ba84da44551f$"
+	}
+}

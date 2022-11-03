@@ -1,0 +1,30 @@
+body {
+    background: #1f1f1f;
+    color: white;
+    font-family: Kanit,sans-serif;
+}
+
+h2 {
+    border-left: 3px solid #a72c12;
+    margin-bottom: 30px;
+    margin-left: 10%;
+    margin-top: 30px;
+    padding-left: 10px;
+    font-weight: bold;
+}
+
+.game-line{
+    background: #eb5826;
+    color: white;
+    border-radius: 5px;
+}
+
+a:hover {
+    color: #eb5826;
+}
+
+.nav-pills .nav-link.active, .nav-pills .show>.nav-link {
+    background: #eb5826;
+    color: #fff;
+    font-weight: bold;
+}

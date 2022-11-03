@@ -1,0 +1,104 @@
+{
+	"textures": [
+		{
+			"image": "death.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 37,
+				"h": 87
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "death-1.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 48,
+						"h": 48
+					},
+					"spriteSourceSize": {
+						"x": 12,
+						"y": 26,
+						"w": 35,
+						"h": 22
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 35,
+						"h": 22
+					}
+				},
+				{
+					"filename": "death-2.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 48,
+						"h": 48
+					},
+					"spriteSourceSize": {
+						"x": 12,
+						"y": 30,
+						"w": 35,
+						"h": 18
+					},
+					"frame": {
+						"x": 1,
+						"y": 25,
+						"w": 35,
+						"h": 18
+					}
+				},
+				{
+					"filename": "death-3.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 48,
+						"h": 48
+					},
+					"spriteSourceSize": {
+						"x": 12,
+						"y": 33,
+						"w": 35,
+						"h": 15
+					},
+					"frame": {
+						"x": 1,
+						"y": 45,
+						"w": 35,
+						"h": 15
+					}
+				},
+				{
+					"filename": "death-0.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 48,
+						"h": 48
+					},
+					"spriteSourceSize": {
+						"x": 13,
+						"y": 24,
+						"w": 34,
+						"h": 24
+					},
+					"frame": {
+						"x": 1,
+						"y": 62,
+						"w": 34,
+						"h": 24
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:b786232784314fcee93ae10b7861d9ea:1c5ef9bd49122620883a3d637fc756ad:572aa1586ae03ed41df9ba84da44551f$"
+	}
+}

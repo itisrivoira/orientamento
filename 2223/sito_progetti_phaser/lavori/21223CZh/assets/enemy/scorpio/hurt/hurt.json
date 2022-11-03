@@ -1,0 +1,62 @@
+{
+	"textures": [
+		{
+			"image": "hurt.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 37,
+				"h": 55
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "hurt-0.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 48,
+						"h": 48
+					},
+					"spriteSourceSize": {
+						"x": 13,
+						"y": 22,
+						"w": 35,
+						"h": 26
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 35,
+						"h": 26
+					}
+				},
+				{
+					"filename": "hurt-1.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 48,
+						"h": 48
+					},
+					"spriteSourceSize": {
+						"x": 13,
+						"y": 23,
+						"w": 34,
+						"h": 25
+					},
+					"frame": {
+						"x": 1,
+						"y": 29,
+						"w": 34,
+						"h": 25
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:6d99d4d2ac38379f2c3882598c96925f:65f11eb0e7d295c7206e999baaa77d66:9dda0143683f3b079bf6b30705451832$"
+	}
+}
