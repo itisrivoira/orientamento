@@ -16,7 +16,12 @@ h2 {
 .game-line{
     background: #eb5826;
     color: white;
-    border-radius: 5px;
+    border-radius: 50px;
+}
+
+
+a {
+    color: #eb5826;
 }
 
 a:hover {
@@ -31,4 +36,9 @@ a:hover {
 
 ul, h2 {
     margin-left: 20px;
+}
+
+ul, li {
+    margin: 20px;
+    padding: 20px;
 }
