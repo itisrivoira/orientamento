@@ -1,0 +1,16 @@
+body, html{
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    width: 100%;
+}
+#contenitore{
+    height: 100%;
+    width: 100%;
+    margin: auto;
+}
+#contenitore canvas{
+    height: 100%;
+    width: 100%;
+    margin: auto;
+}
