@@ -34,11 +34,12 @@ a:hover {
     font-weight: bold;
 }
 
-ul, h2 {
-    margin-left: 20px;
+h2 {
+    font-size:8vw;
 }
 
 ul, li {
-    margin: 20px;
-    padding: 20px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    padding: 10px;
 }
